@@ -38,8 +38,6 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" title="OpenGL" alt="OpenGL" style="filter: brightness(1.1) saturate(1.2);"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/GNU_Octave_logo.svg/120px-GNU_Octave_logo.svg.png" height="40" title="Octave" alt="Octave" />
-
 </p>
 
 ---
