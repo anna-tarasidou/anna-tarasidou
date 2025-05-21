@@ -23,13 +23,13 @@
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/white/303446" height="40" title="Git" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/white/303446" height="40" title="VS Code" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/visualstudio/white/303446" height="40" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://cdn.simpleicons.org/eclipseide/white/303446" height="40" title="Eclipse IDE" alt="Eclipse"/>
-  <img src="https://cdn.simpleicons.org/spring/white/303446" height="40" title="Spring Tools (Spring)" alt="Spring"/>
-  <img src="https://cdn.simpleicons.org/jetbrains/white/303446" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
-  <img src="https://cdn.simpleicons.org/linux/white/303446" height="40" title="Linux" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/git/000000/e0e0e0" height="40" title="Git" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/000000/e0e0e0" height="40" title="VS Code" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/visualstudio/000000/e0e0e0" height="40" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://cdn.simpleicons.org/eclipseide/000000/e0e0e0" height="40" title="Eclipse" alt="Eclipse"/>
+  <img src="https://cdn.simpleicons.org/spring/000000/e0e0e0" height="40" title="Spring Tools (Spring)" alt="Spring"/>
+  <img src="https://cdn.simpleicons.org/jetbrains/000000/e0e0e0" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
+  <img src="https://cdn.simpleicons.org/linux/000000/e0e0e0" height="40" title="Linux" alt="Linux"/>
 </p>
 
 
