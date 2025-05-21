@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical&hide_border=false&include_all_commits=false&count_private=true" width="420" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact" width="420" alt="Top Languages"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&hide_border=false&bg_color=141321&text_color=a9fef7&title_color=fe428e&icon_color=f8d866" width="420" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&hide_border=false&bg_color=0d0c1d&text_color=9be8ff&title_color=e95696&icon_color=f0c93d" width="420" alt="GitHub Streak"/>
 </p>
 
 
