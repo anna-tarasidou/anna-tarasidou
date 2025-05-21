@@ -1,67 +1,17 @@
-<h2 align="center">👋 Hi, I’m @anna-tarasidou</h2>
+# 💫 About Me:
+👀 I’m interested in Software Development and Engineering<br>⚡ Fun fact: I love puzzles and mobile games
 
-<p align="center">Software Developer | Engineering Enthusiast | Puzzle Lover</p>
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarasidouu@gmail.com) 
 
-### 🧠 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=plastic&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 👀 I’m interested in Software Development and Engineering  
-- 📫 Reach me at: **tarasidouu@gmail.com**  
-- ⚡ Fun fact: I love puzzles and mobile games  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anna-tarasidou&limit=5&theme=darcula&combine_all_yearly_contributions=true)
 
----
-
-### 💻 Languages I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,haskell" height="40" alt="Languages"/>
-</p>
-
----
-
-### 🛠 Tools & Environments
-
-<p align="center" style="gap:15px; display:flex; justify-content:center; flex-wrap:wrap;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" title="Eclipse" alt="Eclipse" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="Visual Studio" alt="Visual Studio" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework" alt="Spring" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm" alt="PyCharm" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" title="Unity" alt="Unity" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" title="OpenGL" alt="OpenGL" style="filter: brightness(1.1) saturate(1.2);"/>
-  
-</p>
-
----
-
-### 🚀 Projects
-
-- 🧭 [Maze Pathfinding Robot](https://github.com/anna-tarasidou/maze-robot) – A* and UCS algorithms in a grid-based maze  
-- 🎮 [MyGameApp](https://github.com/anna-tarasidou/mygameapp) – A mobile puzzle game built with Unity  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&show_icons=true&theme=tokyonight&hide_border=true" width="420" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&layout=compact&theme=tokyonight&hide_border=true" width="420" alt="Top Languages"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:tarasidouu@gmail.com" title="Email Me">
-    <img src="https://cdn.simpleicons.org/gmail/6fc2f0" height="30" alt="Email"/>
-  </a>
-</p>
