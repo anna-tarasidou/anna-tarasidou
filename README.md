@@ -29,18 +29,16 @@
   <img src="https://cdn.simpleicons.org/spring/6db33f/edf2fb" height="40" title="Spring Tools (Spring)" alt="Spring"/>
   <img src="https://cdn.simpleicons.org/jetbrains/000000/edf2fb" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
   <img src="https://cdn.simpleicons.org/unity/000000/edf2fb" height="40" title="Unity" alt="Unity"/>
-  <img src="https://cdn.simpleicons.org/opengl/d34e00/edf2fb" height="40" title="OpenGL" alt="OpenGL"/>
+  <img src="https://cdn.simpleicons.org/opengl/6f92c3/edf2fb" height="40" title="OpenGL" alt="OpenGL"/>
   <img src="https://img.icons8.com/color/48/000000/octave.png" title="Octave" alt="Octave"/>
 </p>
-
-
 
 ---
 
 ### 🚀 Projects
 
-- 🧭 [Maze Pathfinding Robot](https://github.com/anna-tarasidou/maze-robot) – A* and UCS algorithms in a grid-based maze
-- 🎮 [MyGameApp](https://github.com/anna-tarasidou/mygameapp) – A mobile puzzle game built with Unity
+- 🧭 [Maze Pathfinding Robot](https://github.com/anna-tarasidou/maze-robot) – A* and UCS algorithms in a grid-based maze  
+- 🎮 [MyGameApp](https://github.com/anna-tarasidou/mygameapp) – A mobile puzzle game built with Unity  
 
 ---
 
@@ -56,5 +54,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:tarasidouu@gmail.com"><img src="https://img.shields.io/badge/email-white?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
+  <a href="mailto:tarasidouu@gmail.com" title="Email Me">
+    <img src="https://cdn.simpleicons.org/gmail/6fc2f0" height="30" alt="Email"/>
+  </a>
 </p>
