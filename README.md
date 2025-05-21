@@ -22,15 +22,24 @@
 
 ### 🛠 Tools & Environments
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/0052cc/edf2fb" height="40" title="Git" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/eclipseide/005a9c/edf2fb" height="40" title="Eclipse" alt="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/visual-studio.png" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://cdn.simpleicons.org/spring/6db33f/edf2fb" height="40" title="Spring Tools (Spring)" alt="Spring"/>
-  <img src="https://cdn.simpleicons.org/jetbrains/000000/edf2fb" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
-  <img src="https://cdn.simpleicons.org/unity/000000/edf2fb" height="40" title="Unity" alt="Unity"/>
-  <img src="https://cdn.simpleicons.org/opengl/6f92c3/edf2fb" height="40" title="OpenGL" alt="OpenGL"/>
-  <img src="https://img.icons8.com/color/48/000000/octave.png" title="Octave" alt="Octave"/>
+<p align="center" style="gap:15px; display:flex; justify-content:center; flex-wrap:wrap;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" title="Eclipse" alt="Eclipse" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="Visual Studio" alt="Visual Studio" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Framework" alt="Spring" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" title="PyCharm" alt="PyCharm" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" title="Unity" alt="Unity" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" title="OpenGL" alt="OpenGL" style="filter: brightness(1.1) saturate(1.2);"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/GNU-Octave_Logo.svg" height="40" title="Octave" alt="Octave" style="filter: brightness(1.1) saturate(1.2);"/>
+
 </p>
 
 ---
