@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,cs,haskell" height="40" alt="Languages"/>
-  <img src="https://img.icons8.com/ios-filled/40/FFFFFF/prolog.png" alt="Prolog Icon" title="Prolog"/>
 </p>
 
 ---
@@ -49,5 +48,4 @@
 
 <p align="center">
   <a href="mailto:tarasidouu@gmail.com"><img src="https://img.shields.io/badge/email-white?style=flat&logo=gmail&logoColor=red" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/anna-tarasidou/"><img src="https://img.shields.io/badge/linkedin-white?style=flat&logo=linkedin&logoColor=blue" alt="LinkedIn"></a>
 </p>
