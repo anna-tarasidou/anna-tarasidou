@@ -30,7 +30,6 @@
   <img src="https://cdn.simpleicons.org/jetbrains/000000/edf2fb" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
   <img src="https://cdn.simpleicons.org/unity/000000/edf2fb" height="40" title="Unity" alt="Unity"/>
   <img src="https://cdn.simpleicons.org/opengl/6f92c3/edf2fb" height="40" title="OpenGL" alt="OpenGL"/>
-  <img src="https://img.icons8.com/color/48/000000/octave.png" title="Octave" alt="Octave"/>
 </p>
 
 ---
@@ -45,12 +44,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&hide_border=false&include_all_commits=false&count_private=true&bg_color=fff0f6&text_color=7a4f8f&title_color=a678de&icon_color=9b59b6" width="420" alt="GitHub Stats"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&theme=dark&hide_border=false" width="420" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&hide_border=false&bg_color=fff0f6&text_color=7a4f8f&title_color=a678de&icon_color=9b59b6" width="420" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="420" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=fff0f6&text_color=7a4f8f&title_color=a678de&icon_color=9b59b6" width="420" alt="Top Languages"/>
 </p>
+
 
 ---
 
