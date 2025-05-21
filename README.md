@@ -23,8 +23,11 @@
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,unity" height="40" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,visualstudio,eclipse" height="40" alt="Tools"/>
+  <img src="https://img.icons8.com/fluency/40/000000/spring-logo.png" title="Spring Tools Suite" alt="Spring"/>
+  <img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm" alt="PyCharm"/>
 </p>
+
 
 ---
 
