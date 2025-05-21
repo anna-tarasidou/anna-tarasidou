@@ -23,9 +23,13 @@
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,visualstudio,eclipse" height="40" alt="Tools"/>
-  <img src="https://img.icons8.com/fluency/40/000000/spring-logo.png" title="Spring Tools Suite" alt="Spring"/>
-  <img src="https://img.icons8.com/color/40/000000/pycharm.png" title="PyCharm" alt="PyCharm"/>
+  <img src="https://cdn.simpleicons.org/git/white/303446" height="40" title="Git" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/white/303446" height="40" title="VS Code" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/visualstudio/white/303446" height="40" title="Visual Studio" alt="Visual Studio"/>
+  <img src="https://cdn.simpleicons.org/eclipseide/white/303446" height="40" title="Eclipse IDE" alt="Eclipse"/>
+  <img src="https://cdn.simpleicons.org/spring/white/303446" height="40" title="Spring Tools (Spring)" alt="Spring"/>
+  <img src="https://cdn.simpleicons.org/jetbrains/white/303446" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
+  <img src="https://cdn.simpleicons.org/linux/white/303446" height="40" title="Linux" alt="Linux"/>
 </p>
 
 
