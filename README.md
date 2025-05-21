@@ -23,13 +23,25 @@
 ### 🛠 Tools & Environments
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/git/0052cc/edf2fb" height="40" title="Git" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/eclipseide/005a9c/edf2fb" height="40" title="Eclipse" alt="Eclipse"/>
-  <img src="https://img.icons8.com/color/48/visual-studio.png" title="Visual Studio" alt="Visual Studio"/>
-  <img src="https://cdn.simpleicons.org/spring/6db33f/edf2fb" height="40" title="Spring Tools (Spring)" alt="Spring"/>
-  <img src="https://cdn.simpleicons.org/jetbrains/000000/edf2fb" height="40" title="PyCharm (JetBrains)" alt="PyCharm"/>
-  <img src="https://cdn.simpleicons.org/unity/000000/edf2fb" height="40" title="Unity" alt="Unity"/>
-  <img src="https://cdn.simpleicons.org/opengl/6f92c3/edf2fb" height="40" title="OpenGL" alt="OpenGL"/>
+  <p align="center">
+  <img src="https://cdn.simpleicons.org/c/0059c8" height="32" title="C" alt="C"/>
+  <img src="https://cdn.simpleicons.org/csharp/239120" height="32" title="C#" alt="C#"/>
+  <img src="https://cdn.simpleicons.org/haskell/7d78a3" height="32" title="Haskell" alt="Haskell"/>
+  <img src="https://cdn.simpleicons.org/openjdk/ed8b00" height="32" title="Java" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/latex/008080" height="32" title="LaTeX" alt="LaTeX"/>
+  <img src="https://cdn.simpleicons.org/octave/3b5998" height="32" title="Octave" alt="Octave"/>
+  <img src="https://cdn.simpleicons.org/python/3670a0" height="32" title="Python" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/opengl/ffffff" height="32" title="OpenGL" alt="OpenGL" style="background:#2e1a36; border-radius:4px; padding:2px;"/>
+  <img src="https://cdn.simpleicons.org/spring/6db33f" height="32" title="Spring" alt="Spring"/>
+  <img src="https://cdn.simpleicons.org/thymeleaf/005c0f" height="32" title="Thymeleaf" alt="Thymeleaf"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479a1" height="32" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/sqlite/07405e" height="32" title="SQLite" alt="SQLite"/>
+  <img src="https://cdn.simpleicons.org/matplotlib/ffffff" height="32" title="Matplotlib" alt="Matplotlib" style="background:#2e1a36; border-radius:4px; padding:2px;"/>
+  <img src="https://cdn.simpleicons.org/github/121011" height="32" title="GitHub" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/git/f05033" height="32" title="Git" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/unity/000000" height="32" title="Unity" alt="Unity"/>
+</p>
+
 </p>
 
 ---
