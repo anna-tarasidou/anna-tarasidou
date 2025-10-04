@@ -1,27 +1,16 @@
-<h2 align="center">👋 Hi, I’m @anna-tarasidou</h2>
+<h2 align="center">Hello, I'm Anna Tarasidou!</h2>
 
-<p align="center">Software Developer | Engineering Enthusiast | Puzzle Lover</p>
+<p align="center">Computer Science & Software Engineering Undergraduate 🎓</p>
+
+---
+### About Me
+<p>💡 I’m passionate about software and application development, with a strong interest in databases and game design. I enjoy solving complex problems and building efficient, well-structured systems through clean and maintainable code. </p>
+
+<p>I am currently an undergraduate student at the University of Ioannina, exploring new technologies and constantly seeking opportunities to apply my skills in real-world projects and challenges.</p>
 
 ---
 
-### 🧠 About Me
-
-- 👀 I’m interested in Software Development and Engineering  
-- 📫 Reach me at: **tarasidouu@gmail.com**  
-- ⚡ Fun fact: I love puzzles and mobile games
-
----
-
-### 🏢 My organization:
-<div align="center">
-  <a href="https://github.com/uoi-coding-lab" target="_blank" rel="noopener noreferrer">
-    <img src="./uoi-coding-lab.png" width="120" alt="uoi coding lab"/>
-  </a>
-</div>
-
----
-
-### 💻 Languages I Use
+### 🖥️ Preferred Languages
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="32" title="Java" alt="Java"/>
