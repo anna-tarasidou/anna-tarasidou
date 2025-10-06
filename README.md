@@ -10,22 +10,16 @@
 
 ---
 
-### 🖥️ Preferred Languages
+### 🖥️ Programming Languages
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="32" title="Java" alt="Java"/>
-  &nbsp;
-  <img src="https://img.icons8.com/fluency/48/c-sharp-logo.png" height="32" title="C#" alt="C#"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3670a0" height="32" title="Python" alt="Python"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/c/0059c8" height="32" title="C" alt="C"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/haskell/7d78a3" height="32" title="Haskell" alt="Haskell"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/latex/008080" height="32" title="LaTeX" alt="LaTeX"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/octave/3b5998" height="32" title="Octave" alt="Octave"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" height="30"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3670a0" height="25"/> <b>Python</b> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/0059c8" height="25"/> <b>C</b> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/c-sharp-logo.png" height="30"/> <b>C#</b> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/haskell/7d78a3" height="28"/> <b>Haskell</b> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="28"/> <b>Typescript</b> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/octave/3b5998" height="28"/> <b>Octave</b>
 </p>
 
 ---
@@ -60,14 +54,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical&hide_border=false&include_all_commits=false&include_forks=true&count_private=true&cache_bust=1" width="420" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact&include_forks=true" width="420" alt="Top Languages"/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&theme=tokyonight&hide_border=false" width="420" height="200" alt="GitHub Streak"/>
-</p>
+</div>
 
 ---
-
 
 ### 🌐 Connect with Me
 
