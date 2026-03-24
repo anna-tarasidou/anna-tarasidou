@@ -59,7 +59,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact&include_forks=true" width="420" alt="Top Languages"/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anna-tarasidou&theme=tokyonight&hide_border=false" width="420" height="200" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anna-tarasidou&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>  
 </div>
 
 ---
