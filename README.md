@@ -59,9 +59,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact&include_forks=true" width="420" alt="Top Languages"/>
   
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anna-tarasidou&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>  
+
 </div>
 
 ---
