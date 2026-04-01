@@ -55,9 +55,9 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical&hide_border=false&cache_bust=1" width="420" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact&include_forks=true" width="420" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical&hide_border=true&cache_seconds=1800" width="420" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=true&layout=compact" width="420" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anna-tarasidou&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
