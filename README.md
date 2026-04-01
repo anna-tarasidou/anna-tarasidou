@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical&hide_border=true&cache_seconds=1800" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anna-tarasidou&theme=radical" width="420" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=true&layout=compact" width="420" />
   
