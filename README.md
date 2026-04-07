@@ -58,7 +58,7 @@
   
   <img src="https://github-stats-extended.vercel.app/api?username=anna-tarasidou&theme=radical" width="420" alt="GitHub Stats" />  
   
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=true&layout=compact" width="420" alt="Top Languages" />  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anna-tarasidou&theme=radical&hide_border=false&layout=compact" width="420" alt="Top Languages" />  
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anna-tarasidou&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
